@@ -129,6 +129,5 @@ experiment "my_GUI_xp" type:gui  {
 				grid layer1  transparency:transp border: #black;
 				species plants aspect: default;
 			}
-	//TODO：3D view for the rain in the future?
 	}
 }
